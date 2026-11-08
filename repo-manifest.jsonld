@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/canonical/pgbouncer-operator/commit/68d3844248a8c9e838e44edefdd8b45a0b4c42f4",
       "git:hexsha": "68d3844248a8c9e838e44edefdd8b45a0b4c42f4",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-11-08T04:31:25.431497+00:00"
     },
     {
       "@id": "https://repolex.ai/r/canonical/pgbouncer-operator/commit/205d0f26d46fdd86670faa30bd597bda37fa4bfc",
